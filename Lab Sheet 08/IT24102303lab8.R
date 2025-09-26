@@ -1,8 +1,5 @@
 setwd("C:\\Users\\it24102303\\Desktop\\IT24102303\\Lab 08-20250926")
 
-#setting the directory
-setwd("C:/Users/IT24101020/Desktop/it24101020")
-
 #importing the data set
 data <- read.table("Exercise - LaptopsWeights.txt",header=TRUE)
 fix(data)
@@ -43,4 +40,5 @@ mean_of_s_means
 
 pop_sd_laptop
 sd_of_s_means
+
 
